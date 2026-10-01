@@ -1,4 +1,5 @@
 > 非公式訳。原文：[README.md](../README.md)。食い違いがある場合は中国語の原文を優先する。
+> 訳出時点の原文コミット：[`1140192`](https://github.com/eternity4719/HowToLiveBetter/commit/1140192bcb204936a0ddc8fa74cedf497a35adbd)（2026-09-30）
 
 <div align="center">
 
